@@ -1,0 +1,1 @@
+let laMitad = Number =>numero*2;
